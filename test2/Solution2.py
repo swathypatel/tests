@@ -28,3 +28,4 @@ delete_keys_from_dict('test_payload.json', ["inParams"])
 
 
 # python3 Solution2.py # Command to execute this script.
+# Output is stored in output.json

@@ -45,3 +45,4 @@ def modify_dates(X, Y):
 modify_dates(1, 2)  # It should add 1 and 2 days to depart and return dates respectively.
 
 # python3 Solution1.py # Command to execute this script.
+# Output is stored in output.xml

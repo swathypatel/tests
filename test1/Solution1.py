@@ -1,6 +1,6 @@
 # This script parses the xml and modifies the dates and writes to output.xml.
 
-# Please install xmltodict and lxml using pip before running the script.
+# Please install xmltodict and lxml using pip3 before running the script.
 
 import xmltodict
 import lxml.etree as ET

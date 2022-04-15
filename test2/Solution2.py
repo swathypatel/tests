@@ -1,6 +1,6 @@
 # This script parses the json file and removes keys that are given as input and writes the remaining content to output.json file.
 
-# please install json module using pip if not already present.
+# please install json module using pip3 if not already present.
 import json
 
 
